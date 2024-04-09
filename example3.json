@@ -1,0 +1,8 @@
+[
+    { "pid":101,"pname":"Dr.Amal","designation":"Dean","city":"Badulla","age":55
+    },
+    { "pid":102,"pname":"Dr.Kamal","designation":"SE","city":"Kandy","age":25
+    },
+    { "pid":103,"pname":"Dr.Nimal","designation":"QA","city":"Badulla","age":45
+    }
+]

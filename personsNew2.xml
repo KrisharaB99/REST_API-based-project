@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+  <person id = "1">
+      <pname>Amal</pname>
+      <city>Colombo</city>
+      <designation>Student</designation>
+      <age>24</age>
+  </person>
+  <person id = "2">
+      <pname>Kamal</pname>
+      <city>Galle</city>
+      <designation>Student</designation>
+      <age>25</age>
+  </person>
+  <person id = "3">
+      <pname>Nimal</pname>
+      <city>Kandy</city>
+      <designation>Student</designation>
+      <age>26</age>
+  </person>
+</persons>
